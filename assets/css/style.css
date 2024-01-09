@@ -3083,7 +3083,7 @@ label {
   background: linear-gradient(
     0deg,
     #012641 0%,
-    #16a085 47.6%,
+    #0794aa 47.6%,
     transparent 65.23%
   );
   z-index: -1;
@@ -3091,7 +3091,7 @@ label {
 }
 
 .btn-two {
-  background-image: linear-gradient(to right, #ff68b5, #01ffff) !important;
+  background-image: linear-gradient(to right, #0794aa, #b8e0e0) !important;
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5) !important;
 }
 .features-item {
